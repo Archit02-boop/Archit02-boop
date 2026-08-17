@@ -49,5 +49,5 @@ My work focuses on building practical projects across satellite imagery, geospat
 
 You can view my complete project portfolio here:
 
-**Portfolio Website:**  https://archit02-boop.github.io/archit-ranjan-portfolio/
+**Portfolio Website:** https://archit02-boop.github.io/archit-ranjan-portfolio/
 **LinkedIn:** www.linkedin.com/in/archit-ranjan02
